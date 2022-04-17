@@ -10,7 +10,3 @@ addition_app = gateway.entry_point               # get the AdditionApplication i
 value = addition_app.addition(111, 111) # call the addition method
 print(value)
 
-
-#naaaaaa
-
-print("auhvugaaa")
